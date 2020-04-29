@@ -1,0 +1,7 @@
+D:\Training\Design Patters\CommandPattern\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe.config
+D:\Training\Design Patters\CommandPattern\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe
+D:\Training\Design Patters\CommandPattern\CommandPattern\CommandPattern\bin\Debug\CommandPattern.pdb
+D:\Training\Design Patters\CommandPattern\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csprojAssemblyReference.cache
+D:\Training\Design Patters\CommandPattern\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csproj.CoreCompileInputs.cache
+D:\Training\Design Patters\CommandPattern\CommandPattern\CommandPattern\obj\Debug\CommandPattern.exe
+D:\Training\Design Patters\CommandPattern\CommandPattern\CommandPattern\obj\Debug\CommandPattern.pdb
